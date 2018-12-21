@@ -214,4 +214,4 @@ output_process : process(current_state, clk)
            END CASE;
         end if;     
     end process;
-end behavioral;
+end Behavioral;
